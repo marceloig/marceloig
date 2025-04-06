@@ -6,8 +6,8 @@ Sou um especialista em **DevOps e Arquitetura Cloud Native**, com ampla experiê
 ## 🚀 O que estou fazendo agora?  
 - 🔭 Atualmente, estou trabalhando na modernização de aplicações e migração para a **AWS**, garantindo escalabilidade e flexibilidade para workloads na nuvem.  
 - 🌱 Estou aprendendo continuamente sobre **novas tendências em AWS, DevOps e arquitetura de software** para aprimorar as soluções que desenvolvo.  
-- 👯 Busco colaborar em projetos de **Cloud Computing, Serverless, CI/CD e Automação**.  
-- 💬 Pergunte-me sobre **DevOps, Cloud Native, AWS, Arquitetura de Soluções, Platform Engineering e práticas DevOps**.  
+- 👯 Busco colaborar em projetos de **Cloud Computing, Serverless e DevOps Tools**.  
+- 💬 Pergunte-me sobre **Cloud Native, AWS, Arquitetura de Soluções, Platform Engineering e práticas DevOps**.  
 
 ## 📫 Como me encontrar?  
 - **E-mail:** [cccmigor@gmail.com](mailto:cccmigor@gmail.com)  
