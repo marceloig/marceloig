@@ -23,7 +23,7 @@ Guto Galambda
 Ralph Waldo Emerson
 
 ## Cases
-https://aws.amazon.com/pt/blogs/aws-brasil/migrando-uma-aplicacao-monolitica-para-a-arquitetura-serverless-e-de-microsservicos/
+- [Modernização para arquitetura Serverless](https://aws.amazon.com/pt/blogs/aws-brasil/migrando-uma-aplicacao-monolitica-para-a-arquitetura-serverless-e-de-microsservicos/)
 
 ## ⚡ Curiosidade
 Ja estagiei em uma empresa onde escolhi atuar no time de COBOL em vez de Java só porque tinha menos concorrencia e pensando no dinheiro que eu teria por saber mexer com tecnologia legada, mas o trabalho era tão parado que nao aguentei e pedi para troca pro time de Java 😅
